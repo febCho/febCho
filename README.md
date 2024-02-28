@@ -1,5 +1,5 @@
 <!--header-->
-<img src="https://capsule-render.vercel.app/api?type=Waving&color=99a0ff&height=100&section=header&text=Feb%20,%20Fav!&fontSize=40&fontColor=4b3f5e&fontAlign=87" />
+<img src="https://capsule-render.vercel.app/api?type=Waving&color=99a0ff&height=100&section=header&text=Feb,%20Fav!&fontSize=40&fontColor=4b3f5e&fontAlign=87" />
 
 <!--summary-->
 <h3>안녕하세요, Feb입니다!</h3>
