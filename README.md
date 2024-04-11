@@ -85,12 +85,16 @@
 </details>
 <details>
   <summary>
-    구현 이미지 및 상세 설명은 PDF 파일로 확인하실 수 있습니다.
+    구현 이미지 및 상세 설명은 PDF 파일 또는 노션 페이지로 확인하실 수 있습니다.
   </summary>
 	<div>
-		<h3><a href="https://drive.google.com/file/d/1DUEBak0NdJ4iS0DfHsz5zyt2zEGem_gC/view?usp=sharing">→ click</a><br></h3>
+		<h3><a href="https://drive.google.com/file/d/1DUEBak0NdJ4iS0DfHsz5zyt2zEGem_gC/view?usp=sharing">→ pdf</a><br></h3>
 		※ 캡처한 이미지를 상세히 확인할 수 있도록 확대하여 보시는 걸 추천드립니다!
-	</div>	
+	</div>
+	<div>
+		<h3><a href="https://aeolian-legume-9a0.notion.site/ZIBI-f470d42eee7e43a6a8932378c087784d">→ notion</a></h3>
+		※ 노션 페이지는 프로젝트 전체 개요 및 기능 설명이 함께 있습니다.
+	</div>
 </details>
 <br>
 <h4>🏫 AllCampus 🏫 <a href="https://github.com/Nahyun-K/AllCampus">(Click To Move)</a></h4>
@@ -154,9 +158,13 @@
     구현 이미지 및 상세 설명은 PDF 파일로 확인하실 수 있습니다.
   </summary>
 	<div>
-		<h3><a href="https://drive.google.com/file/d/14bN4urV9ga4b5dqTWDIqgGrBkuPOzh29/view?usp=sharing">→ click</a><br></h3>
+		<h3><a href="https://drive.google.com/file/d/14bN4urV9ga4b5dqTWDIqgGrBkuPOzh29/view?usp=sharing">→ pdf</a><br></h3>
 		※ 캡처한 이미지를 상세히 확인할 수 있도록 확대하여 보시는 걸 추천드립니다!
-	</div>	
+	</div>
+	<div>
+		<h3><a href="http://aeolian-legume-9a0.notion.site/AllCampus-2337bd79826343959f1863265ecd5148?pvs=4">→ notion</a></h3>
+		※ 노션 페이지는 프로젝트 전체 개요 및 기능 설명이 함께 있습니다.
+	</div>
 </details>
   
 <!--badge-->
