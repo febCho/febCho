@@ -75,6 +75,7 @@
 	  - CRUD : 다수의 미디어 파일 삽입 등 UX 향상 위해 CKEditor, DateRangePicker, 다음 주소 API 사용<br>
 	  - MultipartRequest 활용한 파일 첨부<br>
 	  - 페이지 처리<br>
+	  - Owl Carousel 플러그인 API 활용해 모임별 후기 노출<br>
 	  - Ajax 비동기 통신 활용한 댓글 및 대댓글 / 스크랩 기능<br>
 	  - 동적 SQL 통한 정렬 및 검색 기능<br>
 	  - SNS 공유 : 터널링 프로그램 ngrok과 firebase 저장소, API KEY 활용한 네이버 블로그, 카카오톡, 트위터 공유 기능 구현<br>
