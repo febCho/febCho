@@ -4,13 +4,13 @@
 <!--summary-->
 <h3>안녕하세요, Feb입니다!</h3>
 <div>
-  ✅ 사용자 중심의 기획을 개발로 구현합니다.<br>
+  ✅ 1+1은 언제나 2보다 크다는 것을 믿습니다.<br>
   ✅ 좋아하는 일을 더 좋아하기 위해 최선을 다합니다.<br>
   ✅ 내 이름을 걸고 하는 일, 잘하고 싶습니다.
 </div>
 <br>
 <h4><a href="https://github.com/febCho/projectFav">✅ Study Repository</a></h4>
-<h4><a href="https://github.com/febCho/CodingTest_Java">✅ [Java] Coding Test Repository</a></h4>
+<h4><a href="https://github.com/febCho/CodingTest_Java">✅ Coding Test Repository</a></h4>
 <br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=febCho&show_icons=true&theme=graywhite">
 <img src="https://velog-readme-stats.vercel.app/api?name=d_isbetterthan_p">
